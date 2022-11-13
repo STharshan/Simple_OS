@@ -1,1 +1,1 @@
-Simple_OS:Writting a minimal Operating System 
+Simple_OS:Writing a minimal Operating System 
